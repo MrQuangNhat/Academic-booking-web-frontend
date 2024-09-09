@@ -1,0 +1,29 @@
+{
+    "homeheader": {
+        "specialty": "Chuyên ngành",
+        "wellcome": "Xin chào"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-teacher": "Quản lý giáo viên",
+            "manage-admin": "Quản lý admin",
+            "crud": "CRUD user",
+            "crud-redux": "CRUD Redux",
+            "class": "Học phần",
+            "manage-class": "Quản lý học phần",
+            "group": "Nhóm",
+            "manage-group": "Quản lý nhóm",
+            "specialty": "Chuyên ngành",
+            "manage-specialty": "Quản lý chuyên ngành"
+        },
+        "student": {
+            "manage-schedule": "Lịch gặp giáo viên"
+        }
+    },
+    "manage-user": {
+        "add": "Add user",
+        "save": "save",
+        "edit": "edit"
+    }
+}
